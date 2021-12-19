@@ -1,0 +1,19 @@
+{
+  "name": "overbye",
+  "version": "1.0.0",
+  "description": "NodeJS test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/overbye87/overbye.git"
+  },
+  "author": "overbye <overbye@overbye.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/overbye87/overbye/issues"
+  },
+  "homepage": "https://github.com/overbye87/overbye#readme"
+}
