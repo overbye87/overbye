@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/overbye87/overbye/issues"
   },
-  "homepage": "https://github.com/overbye87/overbye#readme"
+  "homepage": "https://github.com/overbye87/overbye#readme",
+  "dependencies": {
+    "chalk": "^5.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
 }
